@@ -7,3 +7,5 @@ https://meet.google.com/hcp-vnri-eru
 #@ahaing ➜ /workspaces/chihlee0701 (main) $ python
 #Python 3.10.8 (main, Jun 15 2023, 01:39:58) [GCC 9.4.0] on linux
 #use [exit]/ exit() / or / Ctrl-D to exit
+# linux 都用 bash 的終端機
+
