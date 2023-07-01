@@ -14,3 +14,6 @@ https://meet.google.com/hcp-vnri-eru
 # pip 
 #
 git push -f
+
+#內建function (python的內建型別) 
+https://docs.python.org/zh-tw/3/library/functions.html
