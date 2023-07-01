@@ -10,8 +10,8 @@ https://meet.google.com/hcp-vnri-eru
 
  linux 都用 bash 的終端機
 #
- pipy上面可以找到很多 module (464,477 packages)
-# pip 
+# pipy上面可以找到很多 module (464,477 packages)
+pip 
 #
 git push -f
 
