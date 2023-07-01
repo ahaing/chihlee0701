@@ -13,3 +13,4 @@ https://meet.google.com/hcp-vnri-eru
  pipy上面可以找到很多 module (464,477 packages)
 # pip 
 #
+git push -f
